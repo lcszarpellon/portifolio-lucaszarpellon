@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     list:
       - title: "Power BI"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-brands fa-windows #fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fas fa-windows #fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Python - Data Analytics"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-brands fa-python #fas fa-laptop
+        icon: fas fa-python #fas fa-laptop
       - title: "Python - Data Science" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
