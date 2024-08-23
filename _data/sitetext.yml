@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fab fa-python #fas fa-laptop
       - title: "Python - Data Science" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Combining statics and AI is what makes me want to challenge myself on creating new invocative solutions. Where my goal is to build projects that uses all the technologies that are in our disposal while pushing the boundaries to deliver results."
-        icon: fa-solid fa-robot #fab fa-markdown
+        icon: fas fa-robot #fab fa-markdown
 
   portfolio:
     title: "Main Projects"
@@ -44,24 +44,29 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Bachelor degree in Electrical Engineering & Physics "
+        year: "2015-2019"
+        desc: "Started the Electrical Engineering course in 2015 and decided to begin a minor in Physics in the State University of Ponta Grossa (UEPG), graduating in both in 2019."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Material Planner - DAF Trucks Brazil"
+        year: "Oct 2020 - Aug 2021"
+        desc: "Performing material scheduling and programming regarding automotive parts through SAP, ensuring the shipment of items, in addition to carrying out the necessary changes in the products. As well as development of KPIs for monitoring critical parts and delays, and managing of international suppliers through daily follow-up."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Data Specialist - Cargill"
+        year: "Sept 2021 - Now"
+        desc: "Started as a data analyst for the LATAM Customer Service team and being promoted to the current position of Data Specialist in the global Supply Chain Excellence team, with a focus on developing projects for regions around the world to facilitate the implementation of effective metrics measurements and KPI restructuring. In this role, I utilize Excel (VBA), Knime, and Power BI to create insightful reports, automate processes, and generate metrics for end-users.Furthermore, I employ SQL in a Hadoop environment and Python to facilitate ETL (extract, transform, load) processes. By leveraging these tools and technologies, I help to ensure that our team operates with efficiency and accuracy, delivering valuable insights and data-driven solutions to our stakeholders."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Post Graduate in Data Science - UFPR"
+        year: "2022-2024"
+        desc: "Graduated from the Post Graduate program in Data Science in the Federal University of Parana."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "MicroMasters Program in Statistics and Data Science - MIT"
+        year: "2024"
+        desc: "Currently enrolled in the MicroMasters program from MIT in Data Science and Statistics, preparing myself to soon be enrolled in a full Master’s program."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -71,8 +76,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "I'm Lucas Ingles Zarpellon and it's pleasure to meet you."
-    body: |
-    "I’m a data specialist from Paraná, Brazil, with a deep passion for turning raw data into actionable insights. Currently, I’m contributing my expertise at Cargill,one of the world’s leading privately held companies, as part of the global Supply Chain Excellence team. My role allows me to dive deep into complex datasets,optimizing supply chain processes and driving strategic decisions across the organization.When I’m not immersed in data, you’ll likely find me hiking through Brazil<’s beautiful landscapes, reconnecting with nature.My enthusiasm for data science and analytics knows no bounds—I’m constantly exploring the latest in AI and innovative methods to enhance data-driven decision-making.To further sharpen my skills, I’m currently enrolled in the prestigious MIT MicroMasters Program in Statistics and Data Science, which is enriching my knowledge and expanding my expertise. Whether it’s through advanced analytics, machine learning, or statistical methods, I’m always eager to explore new ways to unlock the full potential of data."   
+    body: "I’m a data specialist from Paraná, Brazil, with a deep passion for turning raw data into actionable insights. Currently, I’m contributing my expertise at Cargill,one of the world’s leading privately held companies, as part of the global Supply Chain Excellence team. My role allows me to dive deep into complex datasets,optimizing supply chain processes and driving strategic decisions across the organization.When I’m not immersed in data, you’ll likely find me hiking through Brazil<’s beautiful landscapes, reconnecting with nature.My enthusiasm for data science and analytics knows no bounds—I’m constantly exploring the latest in AI and innovative methods to enhance data-driven decision-making.To further sharpen my skills, I’m currently enrolled in the prestigious MIT MicroMasters Program in Statistics and Data Science, which is enriching my knowledge and expanding my expertise. Whether it’s through advanced analytics, machine learning, or statistical methods, I’m always eager to explore new ways to unlock the full potential of data."   
      
     section: about
 
@@ -100,8 +104,8 @@ en: &DEFAULT_EN
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: ""
-        role: ""
+     # - name: ""
+     #   role: ""
         #image: assets/img/team/500x500.jpg
         #social:
         #  - url: https://twitter.com
@@ -120,8 +124,8 @@ en: &DEFAULT_EN
             icon: fas fa-envelope
           - url: https://www.linkedin.com/in/lucasingleszarpellon/
             icon: fab fa-linkedin-in
-      - name: ""
-        role: ""
+    #  - name: ""
+    #    role: ""
        # image: assets/img/team/500x500.jpg
        # social:
        #   - url: https://twitter.com
