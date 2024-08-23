@@ -72,10 +72,10 @@ en: &DEFAULT_EN
     title: "About Me"
     text: "I'm Lucas Ingles Zarpellon and it's pleasure to meet you."
     body: |
-    "I’m a passionate data specialist hailing from Paraná, Brazil, with a deep love for turning raw data into actionable insights. Currently, I’m contributing my expertise at Cargill,
+    "I’m a data specialist from Paraná, Brazil, with a deep passion for turning raw data into actionable insights. Currently, I’m contributing my expertise at Cargill,
     one of the world’s leading privately held companies, as part of the global Supply Chain Excellence team. My role allows me to dive deep into complex datasets, 
     optimizing supply chain processes and driving strategic decisions across the organization.
-    When I’m not immersed in data, you’ll likely find me hiking through Brazil’s beautiful landscapes, reconnecting with nature. 
+    When I’m not immersed in data, you’ll likely find me hiking through Brazil<’s beautiful landscapes, reconnecting with nature. 
     My enthusiasm for data science and analytics knows no bounds—I’m constantly exploring the latest in AI and innovative methods to enhance data-driven decision-making. 
     To further sharpen my skills, I’m currently enrolled in the prestigious MIT MicroMasters Program in Statistics and Data Science, which is enriching my knowledge and expanding my expertise.    
     Whether it’s through advanced analytics, machine learning, or statistical methods, I’m always eager to explore new ways to unlock the full potential of data."
