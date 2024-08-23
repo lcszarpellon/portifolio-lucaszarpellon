@@ -11,23 +11,23 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: Hello, welcome to my portifolio, I'm Lucas Zarpellon!
     text: It's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Main Skills"
+    text: ""
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Power BI"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: "fa-brands fa-python" style="color: #74C0FC" #fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Python - Data Analytics"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Python - Data Science" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
