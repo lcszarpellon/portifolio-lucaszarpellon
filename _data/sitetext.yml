@@ -22,18 +22,18 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Power BI"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-windows #fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "Having 4 year of work experience with Power BI in Supply Chain, I'm passionate about crating stories through data to drive powerful insights."
+        icon: fab fa-windows #fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Python - Data Analytics"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-python #fas fa-laptop
+        desc: "Python is a great tool for any data analytics purpose, I’m aim to use python and all its potential to extract the most of a certain dataset in order to answer key business questions."
+        icon: fab fa-python #fas fa-laptop
       - title: "Python - Data Science" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Combining statics and AI is what makes me want to challenge myself on creating new invocative solutions. Where my goal is to build projects that uses all the technologies that are in our disposal while pushing the boundaries to deliver results."
+        icon: fa-solid fa-robot #fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Main Projects"
+    text: "Here you can find the core of my portfolio."
     section: portfolio
     closebutton: "Close Project"
 
@@ -69,9 +69,17 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "I'm Lucas Ingles Zarpellon and it's pleasure to meet you."
+    body: |
+    I’m a passionate data specialist hailing from Paraná, Brazil, with a deep love for turning raw data into actionable insights. Currently, I’m contributing my expertise at Cargill,
+    one of the world’s leading privately held companies, as part of the global Supply Chain Excellence team. My role allows me to dive deep into complex datasets, 
+    optimizing supply chain processes and driving strategic decisions across the organization.
+    When I’m not immersed in data, you’ll likely find me hiking through Brazil’s beautiful landscapes, reconnecting with nature. 
+    My enthusiasm for data science and analytics knows no bounds—I’m constantly exploring the latest in AI and innovative methods to enhance data-driven decision-making. 
+    To further sharpen my skills, I’m currently enrolled in the prestigious MIT MicroMasters Program in Statistics and Data Science, which is enriching my knowledge and expanding my expertise.    
+    Whether it’s through advanced analytics, machine learning, or statistical methods, I’m always eager to explore new ways to unlock the full potential of data.
+    
     section: about
 
   clients:
