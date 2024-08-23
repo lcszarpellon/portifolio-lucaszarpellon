@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Hello, welcome to my portifolio, I'm Lucas Zarpellon!
-    text: It's Nice To Meet You
+    title: Hello, welcome to my portifolio!
+    text: I'm Lucas Zarpellon, it's Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Power BI"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: "fa-brands fa-python" #fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-brands fa-python #fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Python - Data Analytics"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
