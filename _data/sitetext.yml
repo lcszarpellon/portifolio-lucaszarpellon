@@ -32,6 +32,9 @@ en: &DEFAULT_EN
       - title: "Python - Data Science" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Combining statics and AI is what makes me want to challenge myself on creating new invocative solutions. Where my goal is to build projects that uses all the technologies that are in our disposal while pushing the boundaries to deliver results."
         icon: fas fa-robot #fab fa-markdown
+      - title: "SQL" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "3 years of experience using SQL in Hadoop environment to build efficient and reliable queries to run business models."
+        icon: fas fa-database #fab fa-markdown
 
   portfolio:
     title: "Main Projects"
@@ -51,15 +54,15 @@ en: &DEFAULT_EN
         desc: "Started the Electrical Engineering course in 2015 and decided to begin a minor in Physics in the State University of Ponta Grossa (UEPG), graduating in both in 2019."
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Material Planner" 
+      - title: "DAF Trucks Brazil - EDI Analyst & Material Planner" 
         text: "DAF Trucks Brazil"
         year: "Oct 2020 - Aug 2021"
         desc: "Performing material scheduling and programming regarding automotive parts through SAP, ensuring the shipment of items, in addition to carrying out the necessary changes in the products. As well as development of KPIs for monitoring critical parts and delays, and managing of international suppliers through daily follow-up."
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Data Specialist"
+      - title: "Cargill - Data Specialist"
         text: "Cargill"
-        year: "Sept 2021 - Now"
+        year: "Sept 2021 - Present"
         desc: "Started as a data analyst for the LATAM Customer Service team and being promoted to the current position of Data Specialist in the global Supply Chain Excellence team, with a focus on developing projects for regions around the world to facilitate the implementation of effective metrics measurements and KPI restructuring. In this role, I utilize Excel (VBA), Knime, and Power BI to create insightful reports, automate processes, and generate metrics for end-users.Furthermore, I employ SQL in a Hadoop environment and Python to facilitate ETL (extract, transform, load) processes. By leveraging these tools and technologies, I help to ensure that our team operates with efficiency and accuracy, delivering valuable insights and data-driven solutions to our stakeholders."
         image: assets/img/timeline/3.jpg
         alt: image alt text
