@@ -3,6 +3,17 @@
 #white: "#F26A4B"
 #black: "#000"
 
+black:     '#111111'
+white:     '#f8f8f8'
+blue:      '#0B79D9'
+red:       '#F26A4B'
+dblue:     '#2C4A73'
+green:     '#9bcf2f'
+purple:    '#c869bf'
+orange:    '#fab125'
+turquoise: '#0fbfcf'
+
+
 #Image Customization
 header-image: "../img/header-bg.jpg"
 contact-image: "../img/map-image.png"
