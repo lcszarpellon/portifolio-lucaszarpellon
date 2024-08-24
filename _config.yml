@@ -19,7 +19,8 @@ colors:
   white:     '#f8f8f8'
   blue:      '#0B79D9'
   red:       '#F26A4B'
-  dblue:     '#2C4A73'
+  darkblue:  '#2C4A73'
+  lightblue: '#9BEAF2'
   green:     '#9bcf2f'
   purple:    '#c869bf'
   orange:    '#fab125'
@@ -29,6 +30,7 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/portifolio-lucaszarpellon" #"/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Data portifolio!
+color: '#red'
 email      : lucasiz.zarpellon0@gmail.com #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Lucas Ingles Zarpellon
