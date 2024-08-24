@@ -23,6 +23,7 @@ en: &DEFAULT_EN
       section: team
     - title: "Contact"
       section: contact
+  color: '#red'
 
 en-US:
   <<: *DEFAULT_EN
