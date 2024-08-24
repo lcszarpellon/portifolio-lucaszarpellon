@@ -14,6 +14,17 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#0B79D9'
+  red:       '#F26A4B'
+  dblue:     '#2C4A73'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/portifolio-lucaszarpellon" #"/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
