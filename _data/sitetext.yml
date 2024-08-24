@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: "I'm Lucas Zarpellon"
-    text: "It's Nice To Meet You!"
+    title: "Hello, I'm Lucas Zarpellon"
+    text: "Welcome to my Data Portifolio!"
     color: red
     button: "Tell Me More"
     bg: red
