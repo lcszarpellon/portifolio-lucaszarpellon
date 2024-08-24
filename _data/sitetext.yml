@@ -11,9 +11,11 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: I'm Lucas Zarpellon
-    text: It's Nice To Meet You!
-    button: Tell Me More
+    title: "I'm Lucas Zarpellon"
+    text: "It's Nice To Meet You!"
+    color: red
+    button: "Tell Me More"
+    bg: red
     buttonlink: "#services"
 
   services:
