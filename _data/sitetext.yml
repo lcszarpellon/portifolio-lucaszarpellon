@@ -13,9 +13,9 @@ en: &DEFAULT_EN
   header:
     title: "Hello, I'm Lucas Zarpellon"
     text: "Welcome to my Data Portifolio!"
-    color: red
+    color: "#red"
     button: "Tell Me More"
-    bg: red
+    bg: "#red"
     buttonlink: "#services"
 
   services:
@@ -121,7 +121,7 @@ en: &DEFAULT_EN
         #    icon: fab fa-linkedin-in
       - name: "Lucas Zarpellon"
         role: "Data Specialist"
-        image: assets/img/team/perfil.jpg
+        image: assets/img/team/perfil_cut.jpg
         social:
           - url: https://github.com/lcszarpellon
             icon: fab fa-github
